@@ -1,15 +1,14 @@
 # 📚 Organizador de Estudos – Pomodoro + Lista de Tarefas
 
-Um aplicativo web focado em produtividade, combinando a técnica Pomodoro com uma lista de tarefas intuitiva e um histórico de sessões. Ideal para estudantes e profissionais que desejam manter o foco e acompanhar seu progresso.
+Um aplicativo web focado em produtividade, combinando a técnica Pomodoro com uma lista de tarefas intuitiva . Ideal para estudantes e profissionais que desejam manter o foco e acompanhar seu progresso.
 
 
 ## 🚀 Funcionalidades
 
-✅ Temporizador Pomodoro com animação visual  
-✅ Lista de Tarefas com marcação de tarefa em foco  
-✅ Histórico de sessões concluídas  
-✅ Layout moderno, responsivo e agradável aos olhos  
-✅ Persistência de dados via `localStorage`
+- Temporizador Pomodoro com animação visual  
+- Lista de Tarefas com marcação de tarefa em foco  
+- Layout moderno, responsivo e agradável aos olhos  
+- Persistência de dados via `localStorage`
 
 
 ## 🧪 Tecnologias Utilizadas
