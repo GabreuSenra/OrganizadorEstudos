@@ -1,12 +1,34 @@
-# React + Vite
+# 📚 Organizador de Estudos – Pomodoro + Lista de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um aplicativo web focado em produtividade, combinando a técnica Pomodoro com uma lista de tarefas intuitiva e um histórico de sessões. Ideal para estudantes e profissionais que desejam manter o foco e acompanhar seu progresso.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades
 
-## Expanding the ESLint configuration
+✅ Temporizador Pomodoro com animação visual  
+✅ Lista de Tarefas com marcação de tarefa em foco  
+✅ Histórico de sessões concluídas  
+✅ Layout moderno, responsivo e agradável aos olhos  
+✅ Persistência de dados via `localStorage`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🧪 Tecnologias Utilizadas
+
+- **React + Vite**
+- **TailwindCSS** para o design
+- **React Router** para navegação entre páginas
+- **React Hooks** (`useState`, `useEffect`) para gerenciamento de estado
+
+
+## 🔧 Como Rodar Localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/organizador-estudos.git
+cd organizador-estudos
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
