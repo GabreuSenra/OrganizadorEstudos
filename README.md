@@ -23,8 +23,8 @@ Um aplicativo web focado em produtividade, combinando a técnica Pomodoro com um
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/organizador-estudos.git
-cd organizador-estudos
+git clone https://github.com/GabreuSenra/OrganizadorEstudos
+cd OrganizadorEstudos
 
 # Instale as dependências
 npm install
